@@ -15,7 +15,7 @@
 
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
 
-        <com.rabbitmq.mqp-client.version>5.9.0</com.rabbitmq.mqp-client.version>
+        <com.rabbitmq.mqp-client.version>5.18.0</com.rabbitmq.mqp-client.version>
         <org.slf4j.version>1.7.30</org.slf4j.version>
     </properties>
 
